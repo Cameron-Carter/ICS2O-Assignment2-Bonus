@@ -1,0 +1,16 @@
+{
+    "name": "ICSO2-Assignment2-Bonus",
+    "dependencies": {
+        "device": "*"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
